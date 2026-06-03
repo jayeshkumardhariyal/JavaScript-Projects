@@ -40,7 +40,6 @@ Features:
 - Hour, minute, and second hands with smooth updates.
 - Numbered hour marks around the dial.
 
-
 Notes
 
 - If a checkbox is not selected in the Password Generator, that character type will be omitted from the generated password.
