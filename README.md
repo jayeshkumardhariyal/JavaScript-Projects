@@ -6,6 +6,7 @@ Contents
 
 - `Calculator/` — A simple calculator (addition, subtraction, multiplication, division).
 - `Password Generator/` — A configurable password generator with length slider and character-type options.
+- `Analog Clock/` — A styled analog clock with hour, minute, and second hands.
 
 How to run
 
@@ -29,6 +30,16 @@ Configurable password generator with checkboxes for lowercase, uppercase, number
 Example output:
 
 ![Password Generator Output](Password%20Generator/Output.png)
+
+## Analog Clock
+
+A styled analog clock with hour, minute, and second hands. Open [Analog Clock/index.html](Analog%20Clock/index.html) to run it locally.
+
+Features:
+
+- Hour, minute, and second hands with smooth updates.
+- Numbered hour marks around the dial.
+
 
 Notes
 
