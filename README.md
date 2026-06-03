@@ -40,6 +40,11 @@ Features:
 - Hour, minute, and second hands with smooth updates.
 - Numbered hour marks around the dial.
 
+Example output:
+This is a sample output of the source code.
+
+![Analog Clock Output](Analog%20Clock/Output.png)
+
 Notes
 
 - If a checkbox is not selected in the Password Generator, that character type will be omitted from the generated password.
