@@ -51,8 +51,8 @@ This is a sample output of the source code.
 A stopwatch with start, stop, and reset controls. Open [StopWatch/index.html](StopWatch/index.html) to run it locally.
 
 Example output:
-
-![StopWatch Output](StopWatch/output.png)
+This is the sample ouptut of the StopWatch Project.
+![StopWatch Output](StopWatch/Output.png)
 
 Notes
 
