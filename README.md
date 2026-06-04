@@ -7,6 +7,7 @@ Contents
 - `Calculator/` — A simple calculator (addition, subtraction, multiplication, division).
 - `Password Generator/` — A configurable password generator with length slider and character-type options.
 - `Analog Clock/` — A styled analog clock with hour, minute, and second hands.
+- `StopWatch/` — A stopwatch with start, stop, and reset controls.
 
 How to run
 
@@ -44,6 +45,14 @@ Example output:
 This is a sample output of the source code.
 
 ![Analog Clock Output](Analog%20Clock/Output.png)
+
+## StopWatch
+
+A stopwatch with start, stop, and reset controls. Open [StopWatch/index.html](StopWatch/index.html) to run it locally.
+
+Example output:
+
+![StopWatch Output](StopWatch/output.png)
 
 Notes
 
