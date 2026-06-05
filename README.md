@@ -7,6 +7,7 @@ Contents
 - `Calculator/` — A simple calculator (addition, subtraction, multiplication, division).
 - `Password Generator/` — A configurable password generator with length slider and character-type options.
 - `Analog Clock/` — A styled analog clock with hour, minute, and second hands.
+- `QR-Code Generator/` — A QR code generator for text or URLs.
 - `StopWatch/` — A stopwatch with start, stop, and reset controls.
 
 How to run
@@ -53,6 +54,13 @@ A stopwatch with start, stop, and reset controls. Open [StopWatch/index.html](St
 Example output:
 This is the sample ouptut of the StopWatch Project.
 ![StopWatch Output](StopWatch/Output.png)
+
+## QR-Code Generator
+
+A QR code generator for text or URLs. Open [QR-Code Generator/index.html](QR-Code%20Generator/index.html) to run it locally.
+
+Example output:
+![QR Code Generator Output](QR-Code%20Generator/Output.png)
 
 Notes
 
