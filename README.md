@@ -8,6 +8,8 @@ Contents
 - `Password Generator/` — A configurable password generator with length slider and character-type options.
 - `Analog Clock/` — A styled analog clock with hour, minute, and second hands.
 - `QR-Code Generator/` — A QR code generator for text or URLs.
+- `CountDown Timer/` — A countdown timer with start, pause, and reset controls.
+- `Form Validation/` — A form validation example with input checks and error messages.
 - `StopWatch/` — A stopwatch with start, stop, and reset controls.
 
 How to run
@@ -47,6 +49,22 @@ This is a sample output of the source code.
 
 ![Analog Clock Output](Analog%20Clock/Output.png)
 
+## CountDown Timer
+
+A countdown timer with start, pause, and reset controls. Open [CountDown Timer/index.html](CountDown%20Timer/index.html) to run it locally.
+
+Example output:
+
+![CountDown Timer Output](CountDown%20Timer/Output.png)
+
+## Form Validation
+
+A form validation demo with required field checks and inline error messages. Open [Form Validation/index.html](Form%20Validation/index.html) to run it locally.
+
+Example output:
+
+![Form Validation Output](Form%20Validation/Output.png)
+
 ## StopWatch
 
 A stopwatch with start, stop, and reset controls. Open [StopWatch/index.html](StopWatch/index.html) to run it locally.
@@ -66,5 +84,7 @@ Notes
 
 - If a checkbox is not selected in the Password Generator, that character type will be omitted from the generated password.
 - Both apps are intentionally small and dependency-free.
+
+The root `Output.png` file shows a sample output for the repository and can be opened from the project root.
 
 If you want me to add live preview instructions or a short demo GIF instead of SVGs, tell me which format you prefer and I can update the README.
